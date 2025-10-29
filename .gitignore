@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtualenvs
+venv/
+env/
+.venv/
+
+# PyInstaller / build artifacts
+dist/
+build/
+*.exe
+*.dll
+*.pyd
+*.spec  
+
+# Runtime / generated data
+data/
+*.db
+capturas/
+anki/
+*.apkg
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Packaging metadata
+*.egg-info/
+pip-wheel-metadata/
+
+# Scripts de build
+*.bat
