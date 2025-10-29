@@ -12,6 +12,9 @@ Sukiyaki is a desktop tool to extract Japanese vocabulary from images, fetch mea
 - Supports selecting multiple images at once.
 - Drag & drop support for easy workflow.
 
+<img width="896" height="694" alt="image" src="https://github.com/user-attachments/assets/aabc899f-42e2-4b08-8f8d-4ed481fcd3f6" />
+
+
 ---
 
 ### Tokenization and Analysis
@@ -39,6 +42,7 @@ Sukiyaki is a desktop tool to extract Japanese vocabulary from images, fetch mea
 - Each note includes: word, reading, meaning, and examples in Japanese and English.
 - Saves the `.apkg` file in the `anki` folder of the project.
 
+<img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/328e23fa-e5df-4b98-a49d-7730785d1dc4" />
 
 
 
