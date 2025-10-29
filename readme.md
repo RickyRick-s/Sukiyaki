@@ -44,6 +44,13 @@ Sukiyaki is a desktop tool to extract Japanese vocabulary from images, fetch mea
 
 <img width="960" height="752" alt="image" src="https://github.com/user-attachments/assets/328e23fa-e5df-4b98-a49d-7730785d1dc4" />
 
+## ⚙️ Requirements
+- **Tesseract OCR must be installed on your system**:
+  - **Windows:** [Tesseract Windows Installer](https://github.com/tesseract-ocr/tesseract#windows)  
+  - **macOS:** `brew install tesseract`  
+
+---
+
 
 
 
