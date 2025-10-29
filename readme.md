@@ -12,7 +12,7 @@ Sukiyaki is a desktop tool to extract Japanese vocabulary from images, fetch mea
 - Supports selecting multiple images at once.
 - Drag & drop support for easy workflow.
 
-<img width="896" height="694" alt="image" src="https://github.com/user-attachments/assets/aabc899f-42e2-4b08-8f8d-4ed481fcd3f6" />
+<img width="895" height="727" alt="image" src="https://github.com/user-attachments/assets/2d003098-ca37-4ef5-bdac-cf02574290b6" />
 
 
 ---
